@@ -1,6 +1,6 @@
-### Hello there!
+![counter](https://encuhyl1j5fz9oi.m.pipedream.net)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atharva-bhagwat&repo=CSGY-6643)
+### Hello there!
 
 <!--
 **atharva-bhagwat/atharva-bhagwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
