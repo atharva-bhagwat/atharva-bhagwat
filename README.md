@@ -1,6 +1,6 @@
 ### Hello there!
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atharva-bhagwat&repo=atharva-bhagwat)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atharva-bhagwat&repo=CSGY-6643)
 
 <!--
 **atharva-bhagwat/atharva-bhagwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
